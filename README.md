@@ -1,4 +1,4 @@
-# Brain Health Analysis: Impact of Vascular Risk Factors
+# Brain Health Analysis
 
 This repository contains the code and analysis for a project investigating the impact of vascular risk factors (hypertension, diabetes) and demographic factors (age, gender) on brain health, specifically focusing on cognitive performance and small vessel disease (SVD). This project was completed as part of the Correlation One Tech training program, under the guidance of Tarek Atwan and Enas.
 
